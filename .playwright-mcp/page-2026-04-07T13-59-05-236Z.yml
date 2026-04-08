@@ -1,0 +1,106 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - heading "React Component Generator" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - generic [ref=e52]:
+          - generic [ref=e53]:
+            - generic [ref=e56]: create a pricing card component with three tiers
+            - img [ref=e59]
+          - generic [ref=e62]:
+            - img [ref=e65]
+            - generic [ref=e70]:
+              - paragraph [ref=e72]: This is a static response. You can place an Anthropic API key in the .env file to use the Anthropic API for component generation. Let me create an App.jsx file to display the component.
+              - generic [ref=e75]: Creating App.jsx
+              - separator [ref=e76]
+              - paragraph [ref=e78]: I'll create a PricingCard component for you.
+              - generic [ref=e81]: Creating PricingCard.jsx
+              - separator [ref=e82]
+              - paragraph [ref=e84]: Now let me enhance the component with better styling.
+              - generic [ref=e87]: Editing PricingCard.jsx
+              - separator [ref=e88]
+              - generic [ref=e89]:
+                - paragraph [ref=e90]: "Perfect! I've created:"
+                - list [ref=e91]:
+                  - listitem [ref=e92]:
+                    - strong [ref=e93]: PricingCard.jsx
+              - generic [ref=e94]:
+                - img [ref=e95]
+                - generic [ref=e97]: Generating...
+        - generic [ref=e19]:
+          - textbox "Describe the React component you want to create..." [disabled] [ref=e20]
+          - button [disabled] [ref=e21]:
+            - img [ref=e22]
+    - separator [ref=e25]
+    - generic [ref=e27]:
+      - generic [ref=e28]:
+        - tablist [ref=e30]:
+          - tab "Preview" [selected] [ref=e31]
+          - tab "Code" [ref=e32]
+        - generic [ref=e33]:
+          - button "Sign In" [ref=e34]
+          - button "Sign Up" [ref=e35]
+      - iframe [ref=e98]:
+        - generic [ref=f6e4]:
+          - generic [ref=f6e5]:
+            - paragraph [ref=f6e6]: Starter
+            - paragraph [ref=f6e7]: $9/mo
+            - paragraph [ref=f6e8]: Perfect for side projects and indie hackers.
+            - list [ref=f6e9]:
+              - listitem [ref=f6e10]:
+                - generic [ref=f6e11]: ✓
+                - text: 5 projects
+              - listitem [ref=f6e12]:
+                - generic [ref=f6e13]: ✓
+                - text: 10GB storage
+              - listitem [ref=f6e14]:
+                - generic [ref=f6e15]: ✓
+                - text: Community support
+              - listitem [ref=f6e16]:
+                - generic [ref=f6e17]: ✓
+                - text: API access
+            - button "Start free trial" [ref=f6e18] [cursor=pointer]
+          - generic [ref=f6e19]:
+            - generic [ref=f6e20]: Most popular
+            - paragraph [ref=f6e21]: Pro
+            - paragraph [ref=f6e22]: $29/mo
+            - paragraph [ref=f6e23]: For growing teams that need more power.
+            - list [ref=f6e24]:
+              - listitem [ref=f6e25]:
+                - generic [ref=f6e26]: ✓
+                - text: Unlimited projects
+              - listitem [ref=f6e27]:
+                - generic [ref=f6e28]: ✓
+                - text: 100GB storage
+              - listitem [ref=f6e29]:
+                - generic [ref=f6e30]: ✓
+                - text: Priority support
+              - listitem [ref=f6e31]:
+                - generic [ref=f6e32]: ✓
+                - text: Advanced analytics
+              - listitem [ref=f6e33]:
+                - generic [ref=f6e34]: ✓
+                - text: Custom domains
+            - button "Get started" [ref=f6e35] [cursor=pointer]
+          - generic [ref=f6e36]:
+            - paragraph [ref=f6e37]: Enterprise
+            - paragraph [ref=f6e38]: $99/mo
+            - paragraph [ref=f6e39]: Dedicated infrastructure for large teams.
+            - list [ref=f6e40]:
+              - listitem [ref=f6e41]:
+                - generic [ref=f6e42]: ✓
+                - text: Everything in Pro
+              - listitem [ref=f6e43]:
+                - generic [ref=f6e44]: ✓
+                - text: 1TB storage
+              - listitem [ref=f6e45]:
+                - generic [ref=f6e46]: ✓
+                - text: 24/7 dedicated support
+              - listitem [ref=f6e47]:
+                - generic [ref=f6e48]: ✓
+                - text: SSO & SAML
+              - listitem [ref=f6e49]:
+                - generic [ref=f6e50]: ✓
+                - text: SLA guarantee
+            - button "Contact sales" [ref=f6e51] [cursor=pointer]
+  - alert [ref=e46]
